@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PokeGoMap</string>
+
+    <string name="google_app_id">poetic-sentinel-137723</string>
+    <string name="title_activity_poke_map">Pokemon Nearby</string>
+    <string name="username">pokegomapapp</string>
+    <string name="password">app4hax</string>
+</resources>
